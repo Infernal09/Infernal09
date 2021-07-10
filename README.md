@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Infernal09
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning pynthon
+-    I'm 13 year old
